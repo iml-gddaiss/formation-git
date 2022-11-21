@@ -44,7 +44,8 @@ notamment lorsque plusieurs personnes travaillent sur le même projet, mais des 
 Un projet contient typiquement une branche principale, _main_ ou _master_.
 
 L'image suivante [1]
-![exemple branches](../blob/main/images/branches-harness.io.png?raw=true | width=400)
+
+![exemple branches](./images/branches-harness.io.png)
 
 
 # Utilisation de Git et de GitHub
