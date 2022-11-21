@@ -43,10 +43,9 @@ notamment lorsque plusieurs personnes travaillent sur le même projet, mais des 
 
 Un projet contient typiquement une branche principale, _main_ ou _master_.
 
-L'image suivante [1]
-
-![exemple branches](./images/branches-harness.io.png)
-
+| ![exemple branches](./images/branches-harness.io.png) |
+|:--:|
+| *[Source](https://harness.io/blog/git-branching)* [1] |
 
 # Utilisation de Git et de GitHub
 Git est un logiciel qui s'utilise en ligne de commande (dans un terminal).
