@@ -1,6 +1,6 @@
-# Formation Git(hub)
+# Formation Git(Hub)
 
-## Git
+## Git - Notions de base
 Git est un logiciel de "versionnage du code".
 Il permet essentiellement d'écrire et de suivre l'histoire d'un code.
 Cela se fait en marquant le code à des moments précis, c'est-à-dire figer une version du code.
@@ -43,15 +43,30 @@ notamment lorsque plusieurs personnes travaillent sur le même projet, mais des 
 
 Un projet contient typiquement une branche principale, _main_ ou _master_.
 
-TODO
+L'image suivante [1]
+![exemple branches](../blob/main/images/branches-harness.io.png?raw=true | width=400)
 
 
-## Formation
+# Utilisation de Git et de GitHub
+Git est un logiciel qui s'utilise en ligne de commande (dans un terminal).
+Cependant, il peut être plus simple de l'utiliser au travers
+l'application GitHub Desktop (https://desktop.github.com/).
 
-TODO ... 
-Dans un terminal, il est possible d'ajouter des changements et de faire un commit de cette façon:
-```shell
-git add mon_fichier_où_j_ai_fait_mes_changements.py
-git commit -m "Correction du bug où species_code était une variable inconnue"
-```
 
+### Flot de travail
+0. (Si ce n'est pas déjà fait) Cloner le projet 
+1. Récupérer les derniers changements du répertoire ajoutés sur GitHub
+1. Décider sur quelle branche faire ses ajouts/modifications dans le code
+2. (Au besoin) Si aucune branche existante ne convient, en créer une nouvelle
+3. (Au besoin) Basculer vers la branche choisie ou nouvellement créée
+4. Écrire/modifier le code
+5. Ajouter les changements dans le code désirés en préparation à un commit
+6. Faire un commit
+7. Pousser les changements sur GitHub
+8. (Au besoin) À même GitHub, faire une _Pull Request_ (PR) pour _merger_ les changements de votre branche vers la branche principale (_main_ ou _master_)
+
+
+TODO : détaillé comment faire les étapes ci-dessus via GitHub Desktop et via le terminal ... 
+
+## Références
+[1] Image tirée de https://harness.io/blog/git-branching
