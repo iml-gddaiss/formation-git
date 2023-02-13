@@ -65,4 +65,16 @@ GitHub:
  - `git` outil de control de versions
  - `GitHub` un service en ligne de `git` (i.e., interface à `git`)
  - Surtout un outil de *collaboration*
- 
+
+GitHub est plus que `git` (à voir plus tard)
+ - issues
+ - wiki
+ - projets
+ - actions
+ - gestion utilisateurs
+ - et plus!
+
+ # utilisation GitHub
+ - (vraiment débutant) interface web seulement
+ - (intermédiare) interface graphique git locale
+ - (avancé) ligne de commande git
