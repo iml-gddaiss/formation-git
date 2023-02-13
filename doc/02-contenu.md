@@ -8,7 +8,7 @@
  - text brut (`.txt`)
  - markdown (`.md`, `.rmd`)
  - JuPytR notbooks (`.pynb`)
- - *sites web (`.html`, `.css`)
+ - sites web (`.html`, `.css`)
 
 *seulement quand fichiers source, pas le produit finale!
 
