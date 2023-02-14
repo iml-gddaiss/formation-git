@@ -5,7 +5,7 @@
  - R (`.R`)
  - C/C++ (`.c` `.cpp`, `.h`)
  - python `.py`
- - text brut (`.txt`)
+ - texte brut (`.txt`)
  - markdown (`.md`, `.rmd`)
  - Jupyter notbooks (`.pynb`)
  - *sites web (`.html`, `.css`)
@@ -13,7 +13,7 @@
 *Seulement pour les fichiers sources, par le produit final!
 
 ## À éviter
-### Fichier text intérmedaire sans valeur
+### Fichier texte intérmedaire sans valeur
  - `.log`
  - `.aux`
 
@@ -30,7 +30,7 @@
  - etc.
   
 ## Zone grise
-L'outil `git` a surtout été conçu pour des fichiers de text brut.
+L'outil `git` a surtout été conçu pour des fichiers de texte brut.
 Autre chose... p-e toléré lorsque ça joue un rôle de support. Le contenu doit être de petite taille.
  - images (`.png`, `.jpeg`, `.gif`, `.tif`, etc.)
  - jeux de données (`.csv`)
