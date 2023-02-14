@@ -47,7 +47,7 @@ Interfaces graphiques à git:
  - GitKraken
  - `git-gui`
  - SourceTree
- - et plus!
+ - et plus!!
 
 Services en ligne git:
  - GitHub
