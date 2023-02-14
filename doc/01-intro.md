@@ -39,7 +39,7 @@ Solutions:
 Git a explosé en popularité:
  - créer par les gens deriere Linux (i.e., Linus Torvalds)
  - non-centraliser, distribué
- - gratuit, multi-platform (Mac, Windows, Linux)
+ - gratuit et ouvert, multi-platform (Mac, Windows, Linux)
  - outil en ligne de commande
 
 Interfaces graphiques à git:
