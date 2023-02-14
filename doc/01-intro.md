@@ -74,7 +74,7 @@ GitHub est plus que `git` (à voir plus tard)
  - gestion utilisateurs
  - et plus!
 
- # utilisation GitHub
+ # Utilisation GitHub
  - (vraiment débutant) interface web seulement
  - (intermédiare) interface graphique git locale
  - (avancé) ligne de commande git

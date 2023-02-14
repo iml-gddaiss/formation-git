@@ -3,14 +3,14 @@
 ## Des fichiers avec contenu **text**
 
  - R (`.R`)
- - C/C++ (`.c` `.cpp`)
+ - C/C++ (`.c` `.cpp`, `.h`)
  - python `.py`
  - text brut (`.txt`)
  - markdown (`.md`, `.rmd`)
- - JuPytR notbooks (`.pynb`)
- - sites web (`.html`, `.css`)
+ - Jupyter notbooks (`.pynb`)
+ - *sites web (`.html`, `.css`)
 
-*seulement quand fichiers source, pas le produit finale!
+*Seulement pour les fichiers sources, par le produit final!
 
 ## À éviter
 ### Fichier text intérmedaire sans valeur
@@ -21,7 +21,7 @@
  - pdf (`.pdf`)
  - document word (`.doc`, `.docx`)
  - power-point (`.ppt`)
- - binaire, éxecutable (`.exe`)
+ - binaire, éxecutable (`.pyb`, `.o` `.exe`)
  - Excel  (`.xls`)
  - jeux de données (`.csv`)
  - Base de données (`.sqlite`, `.mdb`)
