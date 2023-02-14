@@ -1,7 +1,11 @@
 
+*
 
 !.gitignore
 !README.md
 
 !images/
 !images/*
+
+!doc/
+!doc/**
