@@ -36,9 +36,9 @@ Solutions:
  - Mercurial
  - git
 
-Git à éxploser en popularité:
+Git a explosé en popularité:
  - créer par les gens deriere Linux (i.e., Linus Torvalds)
- - non-centralisé, distribué
+ - non-centraliser, distribué
  - gratuit, multi-platform (Mac, Windows, Linux)
  - outil en ligne de commande
 
@@ -47,7 +47,7 @@ Interfaces graphiques à git:
  - GitKraken
  - `git-gui`
  - SourceTree
- - et plus!
+ - et plus!!
 
 Services en ligne git:
  - GitHub
@@ -57,7 +57,7 @@ Services en ligne git:
  - et plus!
 
 GitHub:
- - acheté en 2018 par Miscrosoft pour 7.5 milliards 
+ - acheter en 2018 par Miscrosoft pour 7.5 milliards 
  - gratuit, avec services payants
  - bcp des services payants sont dispo gratuitement pour le code ouvert
 
