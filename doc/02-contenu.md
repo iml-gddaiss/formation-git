@@ -1,6 +1,6 @@
-# Contenue cible
+# Contenu cible
 
-## Des fichiers avec contenue **text**
+## Des fichiers avec contenu **text**
 
  - R (`.R`)
  - C/C++ (`.c` `.cpp`)
@@ -12,12 +12,12 @@
 
 *seulement quand fichiers source, pas le produit finale!
 
-## Â éviter
+## À éviter
 ### Fichier text intérmedaire sans valeur
  - `.log`
  - `.aux`
 
-### Des fichiers à évter:
+### Des fichiers à éviter:
  - pdf (`.pdf`)
  - document word (`.doc`, `.docx`)
  - power-point (`.ppt`)
